@@ -2,8 +2,8 @@
 #include<stdlib.h>
 #include<string.h>
 
-// Dilan ****** Toro ******
-// **.***.***-*
+// Dilan Alonso Toro Moraga
+// 20.956.529-3
 
 typedef struct{
 	
